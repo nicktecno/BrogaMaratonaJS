@@ -1,3 +1,4 @@
+/* eslint-disable no-await-in-loop */
 /* eslint-disable no-plusplus */
 const fs = require('fs');
 const dotenv = require('dotenv');
